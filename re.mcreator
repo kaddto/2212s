@@ -2,27 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "PicMakeItemGlow",
-      "type": "procedure",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pic_make_item_glow",
-      "metadata": {
-        "dependencies": []
-      }
-    },
-    {
-      "name": "Pic",
-      "type": "tool",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pic"
-    },
-    {
       "name": "SupertntLivingEntityIsHitWithItem",
       "type": "procedure",
       "sortid": 2,
@@ -81,21 +60,20 @@
       }
     },
     {
-      "name": "Supretnt",
-      "type": "block",
-      "sortid": 3,
+      "name": "Wedontknowwhatwearedoing",
+      "type": "tab",
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "supretnt"
+      "registry_name": "wedontknowwhatwearedoing"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.re.supretnt": "Supretnt",
-      "item.re.pic": "Pic"
+      "itemGroup.tabwedontknowwhatwearedoing": "Wedontknowwhatwearedoing"
     }
   },
   "foldersRoot": {
